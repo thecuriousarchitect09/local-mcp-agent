@@ -1,6 +1,9 @@
 # MCP Server start
+
 python3 -m venv .venv && source .venv/bin/activate   # optional but recommended
+
 pip install -r requirements.txt
+
 python mcp-server.py
 
 # Tunnel setup
