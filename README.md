@@ -1,3 +1,9 @@
+# 🎥 YouTube Tutorial
+
+Want to understand how this project works step by step?
+
+[Tutorial](https://youtu.be/KxrSHyKL15Q)
+
 # MCP Server start
 
 python3 -m venv .venv && source .venv/bin/activate   # optional but recommended
